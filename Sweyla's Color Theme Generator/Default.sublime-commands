@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "Sweyla's Color Theme Generator: Generate bright!",
+        "command": "generate_theme",
+        "args": {
+            "dark": false
+        }
+    },
+    {
+        "caption": "Sweyla's Color Theme Generator: Generate dark!",
+        "command": "generate_theme",
+        "args": {
+            "dark": true
+        }
+    }
+]

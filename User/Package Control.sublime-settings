@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": 1335273089,
+	"installed_packages":
+	[
+		"Alignment",
+		"ColorPicker",
+		"DocBlockr",
+		"Dogs Colour Scheme",
+		"FileDiffs",
+		"KWrite Color Scheme",
+		"Markdown Preview",
+		"Package Control",
+		"Phix Color Scheme",
+		"PHPUnit",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SortTabs",
+		"Sweyla's Color Theme Generator"
+	],
+	"repositories":
+	[
+		"https://github.com/Kronuz/SublimeCodeIntel.git",
+		"https://github.com/bizoo/SortTabs",
+		"http://github.com/Kronuz/SublimeCodeIntel"
+	]
+}

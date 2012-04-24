@@ -1,0 +1,30 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/barf.tmTheme",
+	"font_face": "Courier",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 11.0,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"margin": 0,
+	"scroll_speed": 10.0,
+	"theme": "Soda Dark.sublime-theme",
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+    // Adds whitespace up to the first open bracket when indenting. Requires
+    // auto_indent to be enabled.
+    "indent_to_bracket": true
+}
